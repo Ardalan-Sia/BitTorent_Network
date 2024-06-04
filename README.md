@@ -72,6 +72,3 @@ python BItTorrent/Peer_class.py <command> <filename> <tracker_address> <listen_a
 - `connection_made(self, transport)`: Handles new connections.
 - `datagram_received(self, data, addr)`: Handles received datagrams.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
